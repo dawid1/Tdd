@@ -328,3 +328,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+TestProject.Tests/obj/TestProject.Tests.csproj.nuget.g.props
