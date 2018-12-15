@@ -18,5 +18,11 @@ namespace TestProject
             _value += value;
             return this;
         }
+
+        public MathLibrary Subtraction(int value)
+        {
+            _value -= value;
+            return this;
+        }
     }
 }

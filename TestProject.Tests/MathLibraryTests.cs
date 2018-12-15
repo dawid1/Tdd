@@ -36,5 +36,21 @@ namespace TestProject.Tests
             // Assert
             newSut.Value.ShouldBe(newValue + earlierValue);
         }
+
+        [Fact]
+        public void result_must_be_correct__when__subtraction_earlier_value_with_new_value()
+        {
+        //Given
+
+        var earlierValue = 3;
+        var newValue = 5;
+        Sut = new MathLibrary(earlierValue);
+        
+        //When
+        var newSut = Sut.Subtraction(newValue);
+        
+        //Then
+        newSut.Value.ShouldBe(earlierValue - newValue);
+        }
     }
 }

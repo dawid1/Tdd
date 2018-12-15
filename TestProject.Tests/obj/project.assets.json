@@ -5827,11 +5827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tdd\\TestProject.Tests\\TestProject.Tests.csproj",
+      "projectUniqueName": "d:\\Tdd\\TestProject.Tests\\TestProject.Tests.csproj",
       "projectName": "TestProject.Tests",
-      "projectPath": "D:\\Tdd\\TestProject.Tests\\TestProject.Tests.csproj",
+      "projectPath": "d:\\Tdd\\TestProject.Tests\\TestProject.Tests.csproj",
       "packagesPath": "C:\\Users\\ddragan\\.nuget\\packages\\",
-      "outputPath": "D:\\Tdd\\TestProject.Tests\\obj\\",
+      "outputPath": "d:\\Tdd\\TestProject.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
