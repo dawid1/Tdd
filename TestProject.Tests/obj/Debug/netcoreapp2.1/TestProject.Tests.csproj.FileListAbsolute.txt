@@ -1,0 +1,17 @@
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\TestProject.Tests.deps.json
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\TestProject.Tests.runtimeconfig.json
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\TestProject.Tests.runtimeconfig.dev.json
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\TestProject.Tests.dll
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\TestProject.Tests.pdb
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\TestProject.dll
+d:\Tdd\TestProject.Tests\bin\Debug\netcoreapp2.1\TestProject.pdb
+d:\Tdd\TestProject.Tests\obj\Debug\netcoreapp2.1\TestProject.Tests.csprojAssemblyReference.cache
+d:\Tdd\TestProject.Tests\obj\Debug\netcoreapp2.1\TestProject.Tests.csproj.CoreCompileInputs.cache
+d:\Tdd\TestProject.Tests\obj\Debug\netcoreapp2.1\TestProject.Tests.AssemblyInfoInputs.cache
+d:\Tdd\TestProject.Tests\obj\Debug\netcoreapp2.1\TestProject.Tests.AssemblyInfo.cs
+d:\Tdd\TestProject.Tests\obj\Debug\netcoreapp2.1\TestProject.Tests.csproj.CopyComplete
+d:\Tdd\TestProject.Tests\obj\Debug\netcoreapp2.1\TestProject.Tests.dll
+d:\Tdd\TestProject.Tests\obj\Debug\netcoreapp2.1\TestProject.Tests.pdb

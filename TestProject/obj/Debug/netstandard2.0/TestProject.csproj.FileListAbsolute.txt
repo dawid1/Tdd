@@ -1,0 +1,9 @@
+d:\Tdd\TestProject\bin\Debug\netstandard2.0\TestProject.deps.json
+d:\Tdd\TestProject\bin\Debug\netstandard2.0\TestProject.dll
+d:\Tdd\TestProject\bin\Debug\netstandard2.0\TestProject.pdb
+d:\Tdd\TestProject\obj\Debug\netstandard2.0\TestProject.csprojAssemblyReference.cache
+d:\Tdd\TestProject\obj\Debug\netstandard2.0\TestProject.csproj.CoreCompileInputs.cache
+d:\Tdd\TestProject\obj\Debug\netstandard2.0\TestProject.AssemblyInfoInputs.cache
+d:\Tdd\TestProject\obj\Debug\netstandard2.0\TestProject.AssemblyInfo.cs
+d:\Tdd\TestProject\obj\Debug\netstandard2.0\TestProject.dll
+d:\Tdd\TestProject\obj\Debug\netstandard2.0\TestProject.pdb
