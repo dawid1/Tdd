@@ -30,12 +30,10 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -178,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dawid Pereira\\.nuget\\packages\\": {},
+    "C:\\Users\\ddragan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programowanie\\Nauka\\DevWarsztaty\\DevWarsztaty_1\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "d:\\Tdd\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "D:\\Programowanie\\Nauka\\DevWarsztaty\\DevWarsztaty_1\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\Dawid Pereira\\.nuget\\packages\\",
-      "outputPath": "D:\\Programowanie\\Nauka\\DevWarsztaty\\DevWarsztaty_1\\TestProject\\obj\\",
+      "projectPath": "d:\\Tdd\\TestProject\\TestProject.csproj",
+      "packagesPath": "C:\\Users\\ddragan\\.nuget\\packages\\",
+      "outputPath": "d:\\Tdd\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dawid Pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ddragan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
