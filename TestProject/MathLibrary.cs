@@ -24,5 +24,10 @@ namespace TestProject
             _value -= value;
             return this;
         }
+        public MathLibrary Multiply(int value)
+        {
+            _value *= value;
+            return this;
+        }
     }
 }

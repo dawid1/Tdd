@@ -52,5 +52,19 @@ namespace TestProject.Tests
         //Then
         newSut.Value.ShouldBe(earlierValue - newValue);
         }
+        [Fact]
+        public void value_must_be_correct__when__multiplication_earlier_value_with_new()
+        {
+            //Arrange
+
+            var earlierValue = 3;
+            var newValue = 5;
+            Sut = new MathLibrary(earlierValue);
+            //Act
+
+            var newSut = Sut.Multiply(newValue);
+            //Assert
+            newSut.Value.ShouldBe(earlierValue * newValue);
+        }
     }
 }
